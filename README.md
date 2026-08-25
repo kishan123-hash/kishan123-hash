@@ -4,17 +4,20 @@
 
 <br>
 
-<a href="https://github.com/kishan123-hash">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=850&height=55&lines=Machine+Learning+%26+AI+Enthusiast;Python+%7C+Data+Science+%7C+Predictive+Modeling;Building+Real-World+Machine+Learning+Solutions;Exploring+Explainable+AI;Learn+%E2%86%92+Build+%E2%86%92+Evaluate+%E2%86%92+Improve+%F0%9F%9A%80" alt="Typing Animation"/>
-</a>
 
 <br><br>
 
 <a href="https://github.com/kishan123-hash">
-<img src="https://img.shields.io/badge/GitHub-kishan123--hash-0B1F3A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-kishan123--hash-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://github.com/kishan123-hash?tab=repositories">
 <img src="https://img.shields.io/badge/Projects-Explore-00B4D8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kishan123-hash?tab=followers">
+<img src="https://img.shields.io/github/followers/kishan123-hash?style=for-the-badge&label=Followers&color=123E63"/>
 </a>
 
 <br><br>
@@ -29,32 +32,51 @@
 
 🎓 **AI Student | Machine Learning Enthusiast | Python Developer**
 
-I'm passionate about turning **data into useful insights and intelligent solutions**.
+I'm passionate about using **data, machine learning and artificial intelligence** to solve real-world problems.
 
-I enjoy working through the complete machine learning workflow — from understanding a dataset and engineering features to training, evaluating and explaining models.
+I enjoy understanding a problem, exploring the data, building models, evaluating their performance, and understanding **why a model makes its predictions**.
+
+<div align="center">
 
 ```text
-                 ┌──────────────────────┐
-                 │      REAL PROBLEM    │
-                 └──────────┬───────────┘
-                            ↓
-                    📊 DATA ANALYSIS
-                            ↓
-                  ⚙️ FEATURE ENGINEERING
-                            ↓
-                    🤖 MODEL TRAINING
-                            ↓
-                     📈 EVALUATION
-                            ↓
-                    🔍 EXPLAINABILITY
-                            ↓
-                      🚀 IMPROVEMENT
+        💡 PROBLEM
+            │
+            ▼
+      📊 DATA ANALYSIS
+            │
+            ▼
+    ⚙️ FEATURE ENGINEERING
+            │
+            ▼
+      🤖 MODEL TRAINING
+            │
+            ▼
+       📈 EVALUATION
+            │
+            ▼
+      🔍 EXPLAINABILITY
+            │
+            ▼
+        🚀 IMPROVEMENT
 ```
 
-### 🔎 Areas of Interest
+</div>
 
-`Machine Learning` • `Artificial Intelligence` • `Data Science`
-`Predictive Modeling` • `Explainable AI` • `Model Evaluation`
+---
+
+## 🔎 Areas of Interest
+
+<div align="center">
+
+🤖 **Machine Learning**
+🧠 **Artificial Intelligence**
+📊 **Data Science**
+🔍 **Explainable AI**
+🎯 **Predictive Modeling**
+📈 **Model Evaluation**
+🧪 **Machine Learning Research**
+
+</div>
 
 ---
 
@@ -82,7 +104,7 @@ I enjoy working through the complete machine learning workflow — from understa
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Machine Learning Projects
 
 <table>
 <tr>
@@ -91,9 +113,9 @@ I enjoy working through the complete machine learning workflow — from understa
 
 ### 🫁 Lung Cancer Prediction
 
-Machine learning project using patient health and lifestyle data to predict lung cancer risk.
+Machine learning project focused on predicting lung cancer risk using patient health and lifestyle information.
 
-**Techniques**
+**Focus**
 
 `Classification`
 `Data Preprocessing`
@@ -105,9 +127,9 @@ Machine learning project using patient health and lifestyle data to predict lung
 
 ### ❤️ Heart Disease Prediction
 
-Hybrid Explainable AI project designed to predict heart disease while providing insight into model predictions.
+Hybrid Explainable AI project focused on predicting heart disease and understanding model predictions.
 
-**Techniques**
+**Focus**
 
 `Machine Learning`
 `Explainable AI`
@@ -123,13 +145,13 @@ Hybrid Explainable AI project designed to predict heart disease while providing 
 
 ### 🧠 Self-Training Classifier
 
-Semi-supervised learning approach that learns from both labeled and unlabeled data.
+A semi-supervised learning approach that uses both labeled and unlabeled data for classification.
 
-**Techniques**
+**Focus**
 
 `Semi-Supervised Learning`
-`Classification`
 `Pseudo-Labeling`
+`Classification`
 
 </td>
 
@@ -137,9 +159,9 @@ Semi-supervised learning approach that learns from both labeled and unlabeled da
 
 ### 📈 Linear Regression
 
-Implementation of Linear Regression from fundamentals, including slope, intercept, correlation and evaluation.
+Implementation of Linear Regression from fundamentals including slope, intercept, correlation and evaluation.
 
-**Techniques**
+**Focus**
 
 `Regression`
 `NumPy`
@@ -166,53 +188,85 @@ Implementation of Linear Regression from fundamentals, including slope, intercep
 
 <div align="center">
 
-| 🧩 Area                     | 🎯 Focus                        |
-| :-------------------------- | :------------------------------ |
-| 🤖 Machine Learning         | Algorithms & model selection    |
-| 📊 Data Science             | Analysis & visualization        |
-| 🎯 Model Evaluation         | Precision, Recall, F1, ROC-AUC  |
-| 🧠 Semi-Supervised Learning | Self-training & pseudo-labeling |
-| 🔍 Explainable AI           | Understanding model predictions |
-| ⚙️ Feature Engineering      | Creating meaningful features    |
-| 📐 Statistics               | Foundations for ML              |
+| 🧩 Area                     | 🎯 Focus                         |
+| :-------------------------- | :------------------------------- |
+| 🤖 Machine Learning         | Algorithms & model selection     |
+| 📊 Data Science             | Analysis & visualization         |
+| 🎯 Model Evaluation         | Precision, Recall, F1 & ROC-AUC  |
+| 🧠 Semi-Supervised Learning | Self-training & pseudo-labeling  |
+| 🔍 Explainable AI           | Understanding model predictions  |
+| ⚙️ Feature Engineering      | Creating meaningful features     |
+| 📐 Statistics               | Foundations for Machine Learning |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Overview
 
 <div align="center">
 
 <a href="https://github.com/kishan123-hash">
-<img src="https://github-readme-stats.vercel.app/api?username=kishan123-hash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" height="170"/>
+
+<img src="https://img.shields.io/github/stars/kishan123-hash?style=for-the-badge&label=TOTAL%20STARS&color=00B4D8&logo=github"/>
+
 </a>
+
+<a href="https://github.com/kishan123-hash?tab=repositories">
+
+<img src="https://img.shields.io/badge/REPOSITORIES-Explore-123E63?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/kishan123-hash?tab=followers">
+
+<img src="https://img.shields.io/github/followers/kishan123-hash?style=for-the-badge&label=FOLLOWERS&color=0B1F3A&logo=github"/>
+
+</a>
+
+<br><br>
 
 <a href="https://github.com/kishan123-hash">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan123-hash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="170"/>
+
+<img src="https://img.shields.io/github/last-commit/kishan123-hash/ml_tranng?style=for-the-badge&label=LATEST%20PROJECT%20COMMIT&color=1565C0&logo=git"/>
+
+</a>
+
+<a href="https://github.com/kishan123-hash/ml_tranng">
+
+<img src="https://img.shields.io/github/repo-size/kishan123-hash/ml_tranng?style=for-the-badge&label=ML%20PROJECT%20SIZE&color=00B4D8&logo=github"/>
+
 </a>
 
 </div>
 
-> **Note:** GitHub Stats uses a public Vercel endpoint, which can occasionally be affected by API limits or traffic. For a more reliable setup, the project recommends self-hosting or generating cards through GitHub Actions.
-
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=kishan123-hash&theme=tokyonight&hide_border=true&mode=weekly" width="80%"/>
+<a href="https://github.com/kishan123-hash">
 
-</div>
+<img src="https://img.shields.io/badge/💻_Active_on-GitHub-181717?style=for-the-badge&logo=github"/>
 
----
+</a>
 
-## 📈 Contribution Activity
+<a href="https://github.com/kishan123-hash?tab=overview">
 
-<div align="center">
+<img src="https://img.shields.io/badge/📈_View-Contributions-00B4D8?style=for-the-badge&logo=github"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishan123-hash&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true" width="95%"/>
+</a>
+
+<a href="https://github.com/kishan123-hash?tab=repositories">
+
+<img src="https://img.shields.io/badge/🚀_Explore-My_Projects-123E63?style=for-the-badge&logo=github"/>
+
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=00B4D8&center=true&vCenter=true&width=750&height=45&lines=Building+%7C+Learning+%7C+Experimenting;Every+Commit+Represents+Progress+%F0%9F%9A%80;Consistency+Creates+Expertise+%F0%9F%94%A5" alt="GitHub Activity Animation"/>
 
 </div>
 
@@ -223,23 +277,23 @@ Implementation of Linear Regression from fundamentals, including slope, intercep
 <div align="center">
 
 ```text
-┌───────────────────────────────────────────────────────┐
-│                                                       │
-│  🤖 Strengthen Machine Learning fundamentals          │
-│                                                       │
-│  🚀 Build more real-world ML projects                 │
-│                                                       │
-│  🧠 Explore advanced Machine Learning                 │
-│                                                       │
-│  🔍 Go deeper into Explainable AI                     │
-│                                                       │
-│  📊 Improve Statistics & Data Science                  │
-│                                                       │
-│  🌐 Contribute to Open Source                         │
-│                                                       │
-│  💼 Build production-ready ML solutions               │
-│                                                       │
-└───────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║  🤖 Strengthen Machine Learning Fundamentals              ║
+║                                                          ║
+║  🚀 Build More Real-World ML Projects                    ║
+║                                                          ║
+║  🧠 Explore Advanced Machine Learning                    ║
+║                                                          ║
+║  🔍 Go Deeper Into Explainable AI                        ║
+║                                                          ║
+║  📊 Improve Statistics & Data Science Skills             ║
+║                                                          ║
+║  🌐 Contribute To Open Source                            ║
+║                                                          ║
+║  💼 Build Production-Ready ML Solutions                  ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -250,27 +304,21 @@ Implementation of Linear Regression from fundamentals, including slope, intercep
 
 <div align="center">
 
-### 🧠 Problem Solving
-
-### 📊 Data-Driven Thinking
-
-### 🤖 Machine Learning
-
-### 🐍 Python
-
-### 🔍 Analytical Thinking
-
-### 🚀 Continuous Learning
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2200&pause=700&color=00B4D8&center=true&vCenter=true&width=750&height=45&lines=Problem+Solving;Analytical+Thinking;Machine+Learning;Python+Programming;Data-Driven+Thinking;Continuous+Learning" alt="Skills Animation"/>
 
 </div>
 
 ---
 
-## 🌱 My Philosophy
+## 🌱 My Learning Philosophy
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&height=45&lines=Don't+just+learn+theory.;Build+it.+Test+it.+Break+it.+Understand+it.;Every+project+is+another+step+forward." alt="Learning Philosophy"/>
+### **Learn → Build → Test → Understand → Improve**
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&height=40&lines=Don't+just+learn+theory.;Build+it.;Test+it.;Break+it.;Understand+it.;Improve+it.+%F0%9F%9A%80" alt="Learning Philosophy"/>
 
 </div>
 
@@ -281,7 +329,9 @@ Implementation of Linear Regression from fundamentals, including slope, intercep
 <div align="center">
 
 <a href="https://github.com/kishan123-hash">
+
 <img src="https://img.shields.io/badge/GitHub-Kishan%20Sharma-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </div>
@@ -291,6 +341,10 @@ Implementation of Linear Regression from fundamentals, including slope, intercep
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=650&height=40&lines=Keep+Learning+%F0%9F%A7%A0;Keep+Building+%F0%9F%9A%80;Keep+Improving+%F0%9F%93%88;See+you+in+the+next+project!+%F0%9F%91%8B" alt="Footer Animation"/>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:123E63,100:0B1F3A&height=130&section=footer&animation=fadeIn" width="100%"/>
 
