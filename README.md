@@ -41,9 +41,9 @@ alt="Profile Views"
 
 ---
 
-# 🧠 About Me
+# About Me
 
-👋 Hi! I'm **Kishan Sharma**, an AI student passionate about **Machine Learning, Artificial Intelligence and Data Science**.
+ Hi! I'm **Kishan Sharma**, an AI student passionate about **Machine Learning, Artificial Intelligence and Data Science**.
 
 I enjoy turning data into useful insights and building machine learning solutions for real-world problems.
 
@@ -55,20 +55,20 @@ My approach is simple:
 
 </div>
 
-- 🔭 Building practical **Machine Learning projects**
-- 🌱 Exploring **Artificial Intelligence & Data Science**
-- 🐍 Working primarily with **Python**
-- 📊 Interested in **predictive modeling & data analysis**
-- 🔍 Exploring **Explainable AI**
-- 🧠 Learning algorithms by implementing them practically
-- 🚀 Focused on continuous learning and experimentation
-- 🤝 Open to collaborating on interesting ML/AI projects
+-  Building practical **Machine Learning projects**
+-  Exploring **Artificial Intelligence & Data Science**
+-  Working primarily with **Python**
+-  Interested in **predictive modeling & data analysis**
+-  Exploring **Explainable AI**
+-  Learning algorithms by implementing them practically
+-  Focused on continuous learning and experimentation
+-  Open to collaborating on interesting ML/AI projects
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
-## 👨‍💻 Programming
+## Programming
 
 <div align="center">
 
@@ -78,7 +78,7 @@ My approach is simple:
 
 ---
 
-## 📊 Data Science
+## Data Science
 
 <div align="center">
 
@@ -92,7 +92,7 @@ My approach is simple:
 
 ---
 
-## 🤖 AI / Machine Learning
+## AI / Machine Learning
 
 <div align="center">
 
@@ -107,7 +107,7 @@ My approach is simple:
 
 ---
 
-## 🛠️ Development
+##  Development
 
 <div align="center">
 
@@ -117,9 +117,9 @@ My approach is simple:
 
 ---
 
-# 🔥 Highlighted Work
+#  Highlighted Work
 
-## 🫁 Lung Cancer Prediction
+##  Lung Cancer Prediction
 
 Machine Learning project focused on predicting lung cancer risk using patient health and lifestyle information.
 
@@ -135,7 +135,7 @@ Machine Learning project focused on predicting lung cancer risk using patient he
 
 ---
 
-## ❤️ Heart Disease Prediction
+##  Heart Disease Prediction
 
 A **Hybrid Explainable AI** project focused on predicting heart disease while improving the interpretability of model predictions.
 
@@ -151,7 +151,7 @@ A **Hybrid Explainable AI** project focused on predicting heart disease while im
 
 ---
 
-## 🧠 Self-Training Classifier
+##  Self-Training Classifier
 
 A **semi-supervised learning** approach that uses both labeled and unlabeled data to improve classification.
 
@@ -167,7 +167,7 @@ A **semi-supervised learning** approach that uses both labeled and unlabeled dat
 
 ---
 
-## 📈 Linear Regression
+## Linear Regression
 
 A from-scratch implementation of Linear Regression designed to understand the mathematics behind the algorithm.
 
@@ -184,7 +184,7 @@ A from-scratch implementation of Linear Regression designed to understand the ma
 
 ---
 
-# 🧬 My Machine Learning Workflow
+#  My Machine Learning Workflow
 
 <div align="center">
 
@@ -194,30 +194,30 @@ A from-scratch implementation of Linear Regression designed to understand the ma
                     └────────┬────────┘
                              ↓
                     ┌─────────────────┐
-                    │   📊 DATA       │
+                    │       DATA       │
                     │ Collect / Clean │
                     └────────┬────────┘
                              ↓
                     ┌─────────────────┐
-                    │   ⚙️ FEATURES   │
+                    │       FEATURES   │
                     │ Engineer / Pick │
                     └────────┬────────┘
                              ↓
                     ┌─────────────────┐
-                    │   🤖 MODEL      │
+                    │       MODEL      │
                     │ Train / Tune    │
                     └────────┬────────┘
                              ↓
                     ┌─────────────────┐
-                    │   📈 EVALUATE   │
+                    │       EVALUATE   │
                     │ F1 / ROC / etc. │
                     └────────┬────────┘
                              ↓
                     ┌─────────────────┐
-                    │   🔍 EXPLAIN    │
+                    │       EXPLAIN    │
                     │ Understand Why  │
                     └────────┬────────┘
                              ↓
                     ┌─────────────────┐
-                    │   🚀 IMPROVE    │
+                    │       IMPROVE    │
                     └─────────────────┘
