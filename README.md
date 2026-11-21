@@ -1,215 +1,178 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0C4A6E,100:0284C7&height=220&section=header&text=KISHAN%20SHARMA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20SCIENCE&descAlignY=60&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:256D9B,100:38A3C5&height=200&section=header&text=KISHAN%20SHARMA&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=62&descSize=13" width="100%" />
 
-# Hi, I'm Kishan Sharma 👋
+# Hi, I'm Kishan Sharma
 
 ### AI & Machine Learning Student | Python Developer | Data Science Enthusiast
 
-*Building practical solutions through data, machine learning, and continuous learning.*
+Building practical solutions through programming, data, and machine learning.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan123-hash)
-[![Repositories](https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github)](https://github.com/kishan123-hash?tab=repositories)
-
-![Profile Views](https://komarev.com/ghpvc/?username=kishan123-hash&label=PROFILE%20VIEWS&color=0E75B6&style=flat)
+[GitHub Profile](https://github.com/kishan123-hash) &nbsp; | &nbsp; [Explore Repositories](https://github.com/kishan123-hash?tab=repositories)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm **Kishan Sharma**, an AI and Machine Learning student interested in building intelligent applications and solving real-world problems using data.
+I'm Kishan Sharma, an AI and Machine Learning student interested in developing intelligent applications and solving real-world problems through technology.
 
-I enjoy understanding how algorithms work, experimenting with different models, and developing practical projects that combine software development with machine learning.
+I enjoy exploring algorithms, building predictive models, developing backend applications, and understanding how machine learning can be applied to practical challenges.
 
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🐍 Working with Python and data science libraries
-- 📊 Interested in data analysis and predictive modeling
-- 🧠 Exploring Explainable AI and model interpretation
-- 🔐 Building projects involving cybersecurity and secure application development
-- 🚀 Continuously learning, experimenting, and improving my skills
+My interests include:
 
-**My approach:**
+- Artificial Intelligence and Machine Learning
+- Python Development and Data Science
+- Predictive Modeling and Explainable AI
+- Backend Development and API Integration
+- Cybersecurity and Secure Application Development
 
-`Understand` → `Build` → `Evaluate` → `Explain` → `Improve`
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Data Science & Analysis
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-**Concepts:** Data Cleaning · Exploratory Data Analysis · Data Visualization · Feature Engineering
-
-### Artificial Intelligence & Machine Learning
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP-5A45FF?style=for-the-badge)
-![LIME](https://img.shields.io/badge/LIME-008577?style=for-the-badge)
-
-**Concepts:** Classification · Regression · Model Evaluation · Predictive Modeling · Semi-Supervised Learning · Explainable AI
-
-### Backend & Application Development
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Developer Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+I believe in learning by building, experimenting with ideas, and continuously improving through practical implementation.
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-### ❤️ HeartShield — Heart Disease Prediction
-
-A machine learning-based application focused on heart disease prediction, combining predictive modeling with explainable AI.
-
-**Key areas:**
-- Machine learning-based prediction
-- Backend API development
-- Data processing and model integration
-- Explainable AI using SHAP and LIME
-- User authentication and application security
-
-**Technologies:** Python · FastAPI · Scikit-learn · XGBoost · SHAP · LIME · SQLAlchemy
-
-🔗 [View HeartShield Repository](https://github.com/kishan123-hash/HeartShield)
+| Category | Technologies and Tools |
+|---|---|
+| Programming Languages | Python |
+| Machine Learning | Scikit-learn, XGBoost |
+| Data Analysis | NumPy, Pandas, Matplotlib |
+| Explainable AI | SHAP, LIME |
+| Backend Development | FastAPI, SQLAlchemy |
+| Database | MySQL |
+| Development Tools | Git, GitHub, VS Code, Jupyter Notebook |
 
 ---
 
-### 🫁 Lung Cancer Prediction
+## Featured Projects
 
-A machine learning project focused on predicting lung cancer risk using patient health and lifestyle information.
+### 01. HeartShield — Heart Disease Prediction
 
-**Key areas:**
-- Data preprocessing
-- Feature analysis
-- Classification
-- Model evaluation
-- Performance comparison
+A machine learning-based application designed to predict heart disease by combining predictive modeling, backend development, and explainable AI.
 
-**Technologies:** Python · Pandas · Scikit-learn · Machine Learning
+**Technical Highlights**
+
+- Machine learning model integration.
+- Backend API development using FastAPI.
+- Model interpretation using SHAP and LIME.
+- Database integration.
+- Authentication and application security.
+
+**Technology Stack:** Python, FastAPI, Scikit-learn, XGBoost, SHAP, LIME, SQLAlchemy.
+
+[View Project Repository](https://github.com/kishan123-hash/HeartShield)
 
 ---
 
-### 🫀 Heart Disease Prediction
+### 02. Lung Cancer Prediction
 
-A Hybrid Explainable AI project focused on predicting heart disease while improving the interpretability of model predictions.
+A machine learning project focused on predicting lung cancer using patient-related health and lifestyle information.
 
-**Key areas:**
-- Clinical and lifestyle data analysis
-- Machine learning models
-- Prediction analysis
+**Technical Highlights**
+
+- Data preprocessing and analysis.
+- Feature selection and model training.
+- Classification techniques.
+- Model performance evaluation.
+
+**Technology Stack:** Python, Pandas, Scikit-learn.
+
+---
+
+### 03. Heart Disease Prediction
+
+A predictive modeling project focused on identifying patterns in health-related data and applying machine learning classification techniques.
+
+**Technical Highlights**
+
+- Data analysis and preprocessing.
+- Classification algorithms.
+- Model evaluation.
+- Explainable AI concepts.
+
+**Technology Stack:** Python, Scikit-learn.
+
+---
+
+### 04. Self-Training Classifier
+
+A semi-supervised learning implementation that uses labeled and unlabeled data to improve classification through pseudo-labeling.
+
+**Technical Highlights**
+
+- Initial model training.
+- Pseudo-label generation.
+- Iterative training.
+- Classification evaluation.
+
+**Technology Stack:** Python, Scikit-learn.
+
+---
+
+### 05. Linear Regression From Scratch
+
+An implementation of Linear Regression to understand the mathematical foundations of predictive modeling.
+
+**Technical Highlights**
+
+- Slope and intercept calculation.
+- Relationship between variables.
+- Prediction using regression.
+- Model evaluation.
+
+**Technology Stack:** Python, NumPy.
+
+---
+
+## Development Approach
+
+My approach to building machine learning applications follows a structured process:
+
+<div align="center">
+
+`Problem Understanding` → `Data Preparation` → `Model Development` → `Evaluation` → `Deployment` → `Improvement`
+
+</div>
+
+I focus not only on building models but also on understanding their performance, interpreting their predictions, and integrating them into practical applications.
+
+---
+
+## Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
 - Explainable AI
-- Model evaluation
-
-**Technologies:** Python · Machine Learning · Explainable AI
-
----
-
-### 🧠 Self-Training Classifier
-
-A semi-supervised learning approach that uses labeled and unlabeled data to improve classification.
-
-**Key concepts:**
-- Self-training
-- Pseudo-labeling
-- Classification
-- Labeled vs. unlabeled data
-- Iterative model improvement
-
-**Technologies:** Python · Scikit-learn · Semi-Supervised Learning
+- Backend Engineering
+- Application Security
 
 ---
 
-### 📈 Linear Regression From Scratch
+## Currently Learning
 
-A practical implementation of Linear Regression to understand the mathematical foundations behind the algorithm.
-
-**Implemented concepts:**
-- Mean calculation
-- Slope and intercept
-- Correlation
-- Prediction
-- Model evaluation
-
-**Technologies:** Python · NumPy · Statistics · Regression
+- Advanced Machine Learning concepts.
+- Explainable and interpretable AI.
+- Backend architecture and API development.
+- Secure software engineering.
+- End-to-end machine learning applications.
 
 ---
 
-## 🔬 My Machine Learning Workflow
+## Let's Connect
 
-```text
-       REAL-WORLD PROBLEM
-               |
-               v
-        DATA COLLECTION
-               |
-               v
-       DATA PREPROCESSING
-               |
-               v
-       FEATURE ENGINEERING
-               |
-               v
-        MODEL TRAINING
-               |
-               v
-      MODEL EVALUATION
-               |
-               v
-       MODEL EXPLANATION
-               |
-               v
-       IMPROVEMENT & ITERATION
-```
+I'm interested in connecting with developers, students, and professionals working in Artificial Intelligence, Machine Learning, and Software Development.
 
-I believe a good machine learning solution is not just about making predictions. It is also about understanding the data, evaluating performance, and explaining the results.
+**GitHub:** [github.com/kishan123-hash](https://github.com/kishan123-hash)
 
----
-
-## 🎯 Current Learning Goals
-
-- Strengthening Machine Learning fundamentals
-- Exploring advanced Explainable AI techniques
-- Improving backend development skills
-- Learning secure application development
-- Building and documenting end-to-end projects
-- Improving problem-solving and software engineering practices
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in connecting with developers, students, and people working in AI, Machine Learning, and software development.
-
-- **GitHub:** [@kishan123-hash](https://github.com/kishan123-hash)
-- **Explore my repositories:** [GitHub Projects](https://github.com/kishan123-hash?tab=repositories)
+**Repositories:** [Explore my work](https://github.com/kishan123-hash?tab=repositories)
 
 ---
 
 <div align="center">
 
-### 💡 Learn. Build. Experiment. Improve.
-
-*Thanks for visiting my GitHub profile!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0C4A6E,100:0284C7&height=100&section=footer" width="100%" />
+**Learn through practice. Build with purpose. Improve continuously.**
 
 </div>
