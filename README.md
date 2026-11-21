@@ -1,223 +1,215 @@
-<div align="center">
+ <div align="center">
 
-<!-- ═════════════════════════════════════════════════════════════ -->
-<!--                         HERO SECTION                          -->
-<!-- ═════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0C4A6E,100:0284C7&height=220&section=header&text=KISHAN%20SHARMA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20SCIENCE&descAlignY=60&descSize=15" width="100%" />
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:082F49,70:0369A1,100:06B6D4&height=240&section=header&text=KISHAN%20SHARMA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20SCIENCE&descAlignY=58&descSize=18&animation=fadeIn"
-width="100%"
-/>
+# Hi, I'm Kishan Sharma 👋
 
-<br>
+### AI & Machine Learning Student | Python Developer | Data Science Enthusiast
 
-<img
-src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=850&height=50&lines=Machine+Learning+%26+AI+Enthusiast;Python+%7C+Data+Science+%7C+Predictive+Modeling;Building+Real-World+Machine+Learning+Solutions;Exploring+Explainable+Artificial+Intelligence;Learn+%E2%80%A2+Build+%E2%80%A2+Experiment+%E2%80%A2+Improve"
-alt="Animated introduction"
-/>
+*Building practical solutions through data, machine learning, and continuous learning.*
 
-<br><br>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan123-hash)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github)](https://github.com/kishan123-hash?tab=repositories)
 
-<a href="https://github.com/kishan123-hash">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kishan123-hash?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-0369A1?style=for-the-badge&logo=rocket&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kishan123-hash?tab=followers">
-<img src="https://img.shields.io/badge/Followers-0E7490?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img
-src="https://komarev.com/ghpvc/?username=kishan123-hash&label=PROFILE%20VIEWS&color=06B6D4&style=flat-square"
-alt="Profile Views"
-/>
+![Profile Views](https://komarev.com/ghpvc/?username=kishan123-hash&label=PROFILE%20VIEWS&color=0E75B6&style=flat)
 
 </div>
 
 ---
 
-# About Me
+## 👨‍💻 About Me
 
- Hi! I'm **Kishan Sharma**, an AI student passionate about **Machine Learning, Artificial Intelligence and Data Science**.
+I'm **Kishan Sharma**, an AI and Machine Learning student interested in building intelligent applications and solving real-world problems using data.
 
-I enjoy turning data into useful insights and building machine learning solutions for real-world problems.
+I enjoy understanding how algorithms work, experimenting with different models, and developing practical projects that combine software development with machine learning.
 
-My approach is simple:
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🐍 Working with Python and data science libraries
+- 📊 Interested in data analysis and predictive modeling
+- 🧠 Exploring Explainable AI and model interpretation
+- 🔐 Building projects involving cybersecurity and secure application development
+- 🚀 Continuously learning, experimenting, and improving my skills
 
-<div align="center">
+**My approach:**
 
-### **Understand → Build → Evaluate → Explain → Improve**
-
-</div>
-
--  Building practical **Machine Learning projects**
--  Exploring **Artificial Intelligence & Data Science**
--  Working primarily with **Python**
--  Interested in **predictive modeling & data analysis**
--  Exploring **Explainable AI**
--  Learning algorithms by implementing them practically
--  Focused on continuous learning and experimentation
--  Open to collaborating on interesting ML/AI projects
+`Understand` → `Build` → `Evaluate` → `Explain` → `Improve`
 
 ---
 
-#  Tech Stack
+## 🛠️ Technical Skills
 
-## Programming
+### Programming Languages
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55"/>
+### Data Science & Analysis
 
-</div>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
----
+**Concepts:** Data Cleaning · Exploratory Data Analysis · Data Visualization · Feature Engineering
 
-## Data Science
+### Artificial Intelligence & Machine Learning
 
-<div align="center">
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-5A45FF?style=for-the-badge)
+![LIME](https://img.shields.io/badge/LIME-008577?style=for-the-badge)
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&theme=dark"/>
+**Concepts:** Classification · Regression · Model Evaluation · Predictive Modeling · Semi-Supervised Learning · Explainable AI
 
-</div>
+### Backend & Application Development
 
-**Focus Areas**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-`Data Cleaning` • `EDA` • `Data Visualization` • `Feature Engineering`
+### Developer Tools
 
----
-
-## AI / Machine Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&theme=dark"/>
-
-</div>
-
-**Focus Areas**
-
-`Classification` • `Regression` • `Model Evaluation`  
-`Semi-Supervised Learning` • `Explainable AI` • `Predictive Modeling`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-##  Development
+## 🚀 Featured Projects
 
-<div align="center">
+### ❤️ HeartShield — Heart Disease Prediction
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark"/>
+A machine learning-based application focused on heart disease prediction, combining predictive modeling with explainable AI.
 
-</div>
+**Key areas:**
+- Machine learning-based prediction
+- Backend API development
+- Data processing and model integration
+- Explainable AI using SHAP and LIME
+- User authentication and application security
+
+**Technologies:** Python · FastAPI · Scikit-learn · XGBoost · SHAP · LIME · SQLAlchemy
+
+🔗 [View HeartShield Repository](https://github.com/kishan123-hash/HeartShield)
 
 ---
 
-#  Highlighted Work
+### 🫁 Lung Cancer Prediction
 
-##  Lung Cancer Prediction
+A machine learning project focused on predicting lung cancer risk using patient health and lifestyle information.
 
-Machine Learning project focused on predicting lung cancer risk using patient health and lifestyle information.
-
-**What I worked with**
-
+**Key areas:**
 - Data preprocessing
 - Feature analysis
 - Classification
 - Model evaluation
 - Performance comparison
 
-`Python` `Pandas` `Scikit-learn` `Machine Learning`
+**Technologies:** Python · Pandas · Scikit-learn · Machine Learning
 
 ---
 
-##  Heart Disease Prediction
+### 🫀 Heart Disease Prediction
 
-A **Hybrid Explainable AI** project focused on predicting heart disease while improving the interpretability of model predictions.
+A Hybrid Explainable AI project focused on predicting heart disease while improving the interpretability of model predictions.
 
-**What I worked with**
-
-- Clinical & lifestyle data
-- Machine Learning models
+**Key areas:**
+- Clinical and lifestyle data analysis
+- Machine learning models
 - Prediction analysis
 - Explainable AI
 - Model evaluation
 
-`Python` `Machine Learning` `Explainable AI`
+**Technologies:** Python · Machine Learning · Explainable AI
 
 ---
 
-##  Self-Training Classifier
+### 🧠 Self-Training Classifier
 
-A **semi-supervised learning** approach that uses both labeled and unlabeled data to improve classification.
+A semi-supervised learning approach that uses labeled and unlabeled data to improve classification.
 
-**Concepts explored**
-
+**Key concepts:**
 - Self-training
 - Pseudo-labeling
 - Classification
-- Labeled vs unlabeled data
+- Labeled vs. unlabeled data
 - Iterative model improvement
 
-`Python` `Semi-Supervised Learning` `Classification`
+**Technologies:** Python · Scikit-learn · Semi-Supervised Learning
 
 ---
 
-## Linear Regression
+### 📈 Linear Regression From Scratch
 
-A from-scratch implementation of Linear Regression designed to understand the mathematics behind the algorithm.
+A practical implementation of Linear Regression to understand the mathematical foundations behind the algorithm.
 
-**Implemented**
-
+**Implemented concepts:**
 - Mean calculation
-- Slope
-- Intercept
+- Slope and intercept
 - Correlation
 - Prediction
 - Model evaluation
 
-`Python` `NumPy` `Statistics` `Regression`
+**Technologies:** Python · NumPy · Statistics · Regression
 
 ---
 
-#  My Machine Learning Workflow
+## 🔬 My Machine Learning Workflow
+
+```text
+       REAL-WORLD PROBLEM
+               |
+               v
+        DATA COLLECTION
+               |
+               v
+       DATA PREPROCESSING
+               |
+               v
+       FEATURE ENGINEERING
+               |
+               v
+        MODEL TRAINING
+               |
+               v
+      MODEL EVALUATION
+               |
+               v
+       MODEL EXPLANATION
+               |
+               v
+       IMPROVEMENT & ITERATION
+```
+
+I believe a good machine learning solution is not just about making predictions. It is also about understanding the data, evaluating performance, and explaining the results.
+
+---
+
+## 🎯 Current Learning Goals
+
+- Strengthening Machine Learning fundamentals
+- Exploring advanced Explainable AI techniques
+- Improving backend development skills
+- Learning secure application development
+- Building and documenting end-to-end projects
+- Improving problem-solving and software engineering practices
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, students, and people working in AI, Machine Learning, and software development.
+
+- **GitHub:** [@kishan123-hash](https://github.com/kishan123-hash)
+- **Explore my repositories:** [GitHub Projects](https://github.com/kishan123-hash?tab=repositories)
+
+---
 
 <div align="center">
 
-```text
-                    ┌─────────────────┐
-                    │   REAL PROBLEM  │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │       DATA       │
-                    │ Collect / Clean │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │       FEATURES   │
-                    │ Engineer / Pick │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │       MODEL      │
-                    │ Train / Tune    │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │       EVALUATE   │
-                    │ F1 / ROC / etc. │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │       EXPLAIN    │
-                    │ Understand Why  │
-                    └────────┬────────┘
-                             ↓
-                    ┌─────────────────┐
-                    │       IMPROVE    │
-                    └─────────────────┘
+### 💡 Learn. Build. Experiment. Improve.
+
+*Thanks for visiting my GitHub profile!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0C4A6E,100:0284C7&height=100&section=footer" width="100%" />
+
+</div>
